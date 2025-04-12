@@ -32,7 +32,9 @@ This project is a **keypad-based smart door lock system** built using an Arduino
 
 ## 🧪 Try the Simulation
 
-👉 You can run and test this project directly on [Wokwi Arduino Simulator]([https://wokwi.com](https://wokwi.com/projects/428032776238138369)).
+👉 You can run and test this project directly on [Wokwi Arduino Simulator].
+
+https://wokwi.com/projects/428032776238138369
 
 ---
 
@@ -63,6 +65,8 @@ This project is a **keypad-based smart door lock system** built using an Arduino
 ## 🙏 Mentors
 
 Special thanks to our **mentors and faculty** for their continuous support and guidance throughout the development of this project!
+
+
 ---
 
 ## 🛠️ Future Improvements
